@@ -1,0 +1,51 @@
+{
+    "CoverSlide": {
+        "SlideIndex": 0,
+        "LayoutIndex": 0,
+        "TitlePlaceholder": {
+            "Index": 0,
+            "Name": "Cover Slide Title"
+        }
+    },
+    "NoticeSlide": {
+        "SlideIndex": 1,
+        "LayoutIndex": 1
+    },
+    "AgendaSlide": {
+        "LayoutIndex": 2,
+        "ToCPlaceholder": {
+            "Index": 13,
+            "Name": "Agenda Slide ToC"
+        }
+    },
+    "ThemeSlide": {
+        "LayoutIndex": 3,
+        "TitlePlaceholder": {
+            "Index": 0,
+            "Name": "Theme Slide Title"
+        }
+    },
+    "ContentSlide": {
+        "LayoutIndex": 4,
+        "H2Placeholder": {
+            "Index": 0,
+            "Name": "Content List H2 Title"
+        },
+        "H3Placeholder": {
+            "Index": 13,
+            "Name": "Content List H3 Title"
+        },
+        "ListPlaceholder": {
+            "Index": 16,
+            "Name": "Content List Listbox"
+        }
+    },
+    "FinalSlide": {
+        "LayoutIndex": 6,
+        "TitlePlaceholder": {
+            "Index": 0,
+            "Name": "Single Title Slide Title"
+        },
+        "DefaultTitle": "Thank You"
+    }
+}

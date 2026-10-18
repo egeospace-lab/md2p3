@@ -1,0 +1,6 @@
+{
+    "Version": "1.0.0",
+    "ToolFlagsFile": "../conf/flags/view-layout.json",
+
+    "DefaultPPTX": "../templates/template.pptx"
+}

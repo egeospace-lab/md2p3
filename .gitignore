@@ -1,0 +1,55 @@
+# =========================
+# macOS System Files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+Thumbs.db
+
+# =========================
+# Python Artifacts
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# IDE / Editor Files
+# =========================
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Other editors
+*.sublime-workspace
+*.sublime-project
+
+# =========================
+# Project Specific
+# =========================
+# Output presentations
+/output/
+/dist/
+
+# Configuration overrides (local only)
+conf/local/

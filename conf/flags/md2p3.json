@@ -1,0 +1,26 @@
+{
+    "Source": {
+        "flag": "--src",
+        "shortcut": "-s"
+    },
+    "Destination": {
+        "flag": "--destination",
+        "shortcut": "-d"
+    },
+    "Template": {
+        "flag": "--template",
+        "shortcut": "-t"
+    },
+    "SlideMap": {
+        "flag": "--slide-map",
+        "shortcut": "-m"
+    },
+    "TitlePrefix": {
+        "flag": "--title-prefix",
+        "shortcut": "-p"
+    },
+    "TabSize": {
+        "flag": "--tab-size",
+        "shortcut": "-x"
+    }
+}
